@@ -1,0 +1,12 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.on {
+  background-color: red;
+}
+
+.off {
+  background-color: green;
+}
